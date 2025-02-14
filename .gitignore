@@ -1,0 +1,36 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+# Android/IDE files
+*.iml
+.gradle/
+.idea/
+.DS_Store
+/local.properties
+/build/
+.caches/
+*.log
+
+# OS generated files
+*.swp
+*~
+Thumbs.db
+.DS_Store
+
+# User directories and system files
+Application Data/
+AppData/
+Documents/
+Downloads/
+Favorites/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
